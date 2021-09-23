@@ -1,0 +1,736 @@
+{
+	"android_play_store_link": "https://play.google.com/store/apps/details?id=com.dinamika.undika_wastiker",
+	"ios_app_store_link": "",
+	"sticker_packs": [{
+			"identifier": "1",
+			"name": "Eid",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"avoid_cache": false,
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": [
+					"🙂"
+				]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+	},
+		{
+			"identifier": "2",
+			"name": "Eid Mubarak",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"avoid_cache": true,
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [ {
+				"image_file": "1.webp",
+				"emojis": [
+					"🙂"
+				]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+		},{
+			"identifier": "3",
+			"name": "Hajj Mubarak",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [
+				{
+					"image_file": "1.webp",
+					"emojis": [
+						"🙂"
+					]
+				},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+		},
+		{
+			"identifier": "4",
+			"name": "Ramadan Kareem",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": [
+					"🙂"
+				]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+		},
+		{
+			"identifier": "5",
+			"name": "Ihram",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": [
+					"🙂"
+				]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+		},
+		{
+			"identifier": "6",
+			"name": "Islamic Words",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": [
+					"🙂"
+				]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+		},
+		{
+			"identifier": "7",
+			"name": "Reading Quran",
+			"publisher": "Lawer's",
+			"tray_image_file": "icon.png",
+			"publisher_email": "",
+			"publisher_website": "",
+			"privacy_policy_website": "",
+			"license_agreement_website": "",
+			"image_data_version": "1",
+			"stickers": [{
+				"image_file": "1.webp",
+				"emojis": [
+					"🙂"
+				]
+			},
+				{
+					"image_file": "2.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "3.webp",
+					"emojis": [
+						"😉"
+					]
+				},
+				{
+					"image_file": "4.webp",
+					"emojis": [
+						"😨"
+					]
+				},
+				{
+					"image_file": "5.webp",
+					"emojis": [
+						"😲"
+					]
+				},
+				{
+					"image_file": "6.webp",
+					"emojis": [
+						"😄"
+					]
+				},
+				{
+					"image_file": "7.webp",
+					"emojis": [
+						"😫"
+					]
+				},
+				{
+					"image_file": "8.webp",
+					"emojis": [
+						"😔"
+					]
+				},
+				{
+					"image_file": "9.webp",
+					"emojis": [
+						"🤔"
+					]
+				},
+				{
+					"image_file": "10.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "11.webp",
+					"emojis": [
+						"😘",
+						"😉"
+					]
+				},
+				{
+					"image_file": "12.webp",
+					"emojis": [
+						"😏"
+					]
+				},
+				{
+					"image_file": "13.webp",
+					"emojis": [
+						"😌"
+					]
+				},
+				{
+					"image_file": "14.webp",
+					"emojis": [
+						"🤨"
+					]
+				},
+				{
+					"image_file": "15.webp",
+					"emojis": [
+						"😊"
+					]
+				}
+			]
+		}
+
+		]
+}

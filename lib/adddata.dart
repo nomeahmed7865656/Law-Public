@@ -16,6 +16,12 @@ class _Add_dataState extends State<Add_data> {
           backgroundColor: Color(0xff2f3649),
           title: Text("Enter Case Data Here"),
         ),
+        body: Container(
+          color: Colors.red,
+          child: Column(
+            children: [TextField()],
+          ),
+        ),
       ),
     );
   }

@@ -33,7 +33,6 @@ class _HomeState extends State<Home> {
     PlaceInfo('BurJuman Food Court', Color(0xff42E695), Color(0xff2f3649), 4.2,
         'Dubai · In BurJuman', '...'),
   ];
-
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -52,30 +51,30 @@ class _HomeState extends State<Home> {
                   Divider(
                     color: Colors.white,
                   ),
-                  SwitchListTile(
-                      title: const Text(
-                        'Theme Mode',
-                        style: TextStyle(
-                          color: Colors.white,
-                        ),
-                      ),
-                      value: check,
-                      onChanged: (ww) {
-                        // setState(() {
-                        //   check = ww;
-                        //   if (check)
-                        //     isLightTheme.add(false);
-                        //   else
-                        //     isLightTheme.add(true);
-                        // });
-                        //isLightTheme.add(false);
-                      }),
+                  // SwitchListTile(
+                  //     title: const Text(
+                  //       'Theme Mode',
+                  //       style: TextStyle(
+                  //         color: Colors.white,
+                  //       ),
+                  //     ),
+                  //     value: check,
+                  //     onChanged: (ww) {
+                  //       // setState(() {
+                  //       //   check = ww;
+                  //       //   if (check)
+                  //       //     isLightTheme.add(false);
+                  //       //   else
+                  //       //     isLightTheme.add(true);
+                  //       // });
+                  //       //isLightTheme.add(false);
+                  //     }),
                   // Divider(color: Color(0xffFAAC05),),
                   // ListTile(title: Text('HISTORY',style: TextStyle(),),trailing: Icon(Icons.history,),),
                   // Divider(color: Color(0xffFAAC05),),
-                  Divider(
-                    color: Colors.white,
-                  ),
+                  // Divider(
+                  //   color: Colors.white,
+                  // ),
                   ListTile(
                     title: Text(
                       'PLAYLISTS',
